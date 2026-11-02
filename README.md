@@ -161,11 +161,7 @@
       <h3>🤖 Full stack development</h3>
       <b>GIAIC</b> · AI-Native & Full-Stack Development
       
-   
-    <td width="50%" valign="top">
-      <h3>📘 PCAR-F Preparation</h3>
-      Pannaversity · In Progress
-    </td>
+  
   </tr>
 </table><h2 align="center">📊 GITHUB SNAPSHOT</h2><div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AYeshsidd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aaish's GitHub statistics" />
