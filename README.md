@@ -155,7 +155,6 @@
       <h3>🤖 Agentic AI Development</h3>
       <b>PIAIC</b> · Agentic AI Architect Program<br/>
       
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
