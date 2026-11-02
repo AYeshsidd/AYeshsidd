@@ -152,18 +152,19 @@
       4th Year Undergraduate
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Agentic AI & Full-Stack</h3>
-      <b>PIAIC</b> · Agentic AI Architect Training<br/>
-      <b>GIAIC</b> · AI-Native & Full-Stack Development
+      <h3>🤖 Agentic AI Development</h3>
+      <b>PIAIC</b> · Agentic AI Architect Program<br/>
+      
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📜 Google Prompting Essentials</h3>
-      Google
+      <h3>🤖 Full stack development</h3>
+      <b>GIAIC</b> · AI-Native & Full-Stack Development
+      
     </td>
     <td width="50%" valign="top">
-      <h3>📘 PCAO-F Preparation</h3>
+      <h3>📘 PCAR-F Preparation</h3>
       Pannaversity · In Progress
     </td>
   </tr>
