@@ -161,7 +161,7 @@
       <h3>🤖 Full stack development</h3>
       <b>GIAIC</b> · AI-Native & Full-Stack Development
       
-    </td>
+   
     <td width="50%" valign="top">
       <h3>📘 PCAR-F Preparation</h3>
       Pannaversity · In Progress
