@@ -27,40 +27,52 @@
     </td>
   </tr>
 </table>💼 Practical Experience
-<table>
+
+<table width="100%" border="1" cellpadding="12" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <h3>🏭 Soorty Enterprises</h3>
-      <p><b>AI Intern</b> · Enterprise AI</p>
-      <img src="https://img.shields.io/badge/EXPERIENCE-Enterprise%20Internship-2563EB?style=flat-square" alt="Enterprise internship" />
+      <b>AI Intern · Enterprise AI</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AI-INTERNSHIP-2563EB?style=for-the-badge" />
       <ul>
         <li>Built an internal company RAG system.</li>
-        <li>Designed <b>Hybrid SQL + RAG</b> retrieval.</li>
-        <li>Created document and database retrieval pipelines.</li>
-        <li>Worked with SQL Server, joins, FAISS and LLMs.</li>
+        <li>Designed Hybrid SQL + RAG retrieval.</li>
+        <li>Created document and database pipelines.</li>
+        <li>Worked with SQL Server, FAISS and LLMs.</li>
       </ul>
-      <p><sub><b>Focus:</b> Python · SQL Server · RAG · FAISS · LLMs</sub></p>
+      <sub>Python · SQL Server · RAG · FAISS</sub>
     </td>
-    <td width="50%" valign="top">
+
+    <td width="33.33%" valign="top">
       <h3>🦺 United Enterprise</h3>
-      <p><b>Website Developer</b> · Real Client Delivery</p>
-      <a href="https://www.uesafety.com/"><img src="https://img.shields.io/badge/CLIENT_PROJECT-LIVE-16A34A?style=flat-square&logo=vercel&logoColor=white" alt="Live client project" /></a>
+      <b>Website Developer · Real Client</b>
+      <br/><br/>
+      <a href="https://www.uesafety.com/">
+        <img src="https://img.shields.io/badge/CLIENT_PROJECT-LIVE-16A34A?style=for-the-badge" />
+      </a>
       <ul>
-        <li>Designed and delivered a live business website.</li>
-        <li>Built product and category showcase pages.</li>
-        <li>Developed an admin panel for product management.</li>
-        <li>Implemented customer inquiry functionality.</li>
+        <li>Delivered a live business website.</li>
+        <li>Built product and category showcases.</li>
+        <li>Developed admin product management.</li>
+        <li>Implemented customer inquiries.</li>
       </ul>
-      <p><sub><b>Focus:</b> Next.js · TypeScript · React · Tailwind CSS</sub></p>
+      <sub>Next.js · TypeScript · React · Tailwind</sub>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+
+    <td width="33.33%" valign="top">
       <h3>💻 PyroniqTech</h3>
-      <b>Frontend Developer Intern</b> · Practical frontend development and responsive user interfaces.
+      <b>Frontend Developer Intern</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/INTERNSHIP-FRONTEND-7C3AED?style=for-the-badge" />
+      <ul>
+        <li>Practical frontend development.</li>
+        <li>Responsive user interface development.</li>
+      </ul>
+      <sub>Frontend Development · Responsive UI</sub>
     </td>
   </tr>
-</table>🚀 Selected Projects
+</table>
 <table>
   <tr>
     <td width="50%" valign="top">
