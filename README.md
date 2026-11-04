@@ -1,41 +1,66 @@
-<!-- Profile README for github.com/AYeshsidd --><div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:312E81,70:2563EB,100:06B6D4&height=230&section=header&text=Aaish%20Siddiqui&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AGENTIC%20AI%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Aaish Siddiqui — Full-Stack Developer and Agentic AI Developer" />  <p>
+<!-- Profile README for github.com/AYeshsidd -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:312E81,70:2563EB,100:06B6D4&height=230&section=header&text=Aaish%20Siddiqui&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AGENTIC%20AI%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Aaish Siddiqui — Full-Stack Developer and Agentic AI Developer" />
+
+  <p>
     <img src="https://img.shields.io/badge/FULL--STACK-Developer-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Full-Stack Developer" />
     <img src="https://img.shields.io/badge/AGENTIC_AI-Developer-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI Developer" />
     <a href="https://www.uesafety.com/"><img src="https://img.shields.io/badge/CLIENT_PROJECT-LIVE-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live client project" /></a>
     <img src="https://img.shields.io/badge/OPEN_TO-Remote%20%7C%20Onsite%20%7C%20Freelance-0891B2?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to opportunities" />
-  </p>  <p>
+  </p>
+
+  <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+Full-Stack+Web+Applications;Engineering+Agentic+AI+%26+RAG+Systems;Turning+Real-World+Problems+Into+Software" alt="Developer specialties" />
-  </p>  <p><b>Building practical web products and intelligent AI systems.</b></p>
+  </p>
+
+  <p><b>Building practical web products and intelligent AI systems.</b></p>
   <p>📍 Karachi, Pakistan &nbsp;·&nbsp;
     <a href="https://linkedin.com/in/aaish-siddiqui">LinkedIn</a> &nbsp;·&nbsp;
     <a href="https://github.com/AYeshsidd">GitHub</a>
   </p>
-</div><h2 align="center">🧩 WHAT I BUILD</h2><table width="100%">
+</div>
+
+<h2 align="center">🧩 WHAT I BUILD</h2>
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🌐 Full-Stack Web Products</h3>
-      <p align="center">Business websites · Admin panels · Dashboards · API-driven applications</p>
+      <p align="center">Business websites · Admin panels · Dashboards · API-driven apps</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🤖 Agentic AI Systems</h3>
-      <p align="center">RAG applications · Hybrid retrieval · AI agents · Workflow automation</p>
+      <p align="center">RAG apps · Hybrid retrieval · AI agents · Workflow automation</p>
       <p align="center">
         <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square" />
         <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" />
-        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP_Servers-0F766E?style=flat-square" />
+        <br/>
+        <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+        <img src="https://img.shields.io/badge/FAISS-1877F2?style=flat-square" />
       </p>
     </td>
   </tr>
-</table><h2 align="center">💼 PRACTICAL EXPERIENCE</h2>
-<p align="center"><b>Industry internship experience and a successfully delivered real-client project</b></p><table width="100%">
+</table>
+
+<h2 align="center">💼 PRACTICAL EXPERIENCE</h2>
+<p align="center"><b>Industry internships and a successfully delivered real-client project</b></p>
+
+<table width="100%">
   <tr>
     <td width="33.33%" valign="top">
       <h3 align="center">🏭 Soorty Enterprises</h3>
@@ -79,7 +104,11 @@
       <p align="center"><sub><b>Frontend · Responsive UI</b></sub></p>
     </td>
   </tr>
-</table><h2 align="center">🚀 SELECTED PROJECTS</h2><table width="100%">
+</table>
+
+<h2 align="center">🚀 SELECTED PROJECTS</h2>
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🦺 United Enterprise</h3>
@@ -123,52 +152,82 @@
       <sub>Next.js · TypeScript · Tailwind CSS</sub>
     </td>
   </tr>
-</table><h2 align="center">⚡ TECHNOLOGY TOOLKIT</h2><h3>🎨 Frontend Development</h3>
+</table>
+
+<h2 align="center">⚡ TECHNOLOGY TOOLKIT</h2>
+
+<h3>🎨 Frontend Development</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" alt="Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML and CSS" />
-</p><h3>⚙️ Backend & Databases</h3>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+</p>
+
+<h3>⚙️ Backend & Databases</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,postgres" alt="Python, FastAPI, MySQL and PostgreSQL" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Neon_DB-00E599?style=flat-square&logo=neon&logoColor=black" />
   <img src="https://img.shields.io/badge/Sanity.io-F03E2F?style=flat-square&logo=sanity&logoColor=white" />
-</p><h3>🧠 Agentic AI & Retrieval</h3>
+</p>
+
+<h3>🧠 Agentic AI & Retrieval</h3>
 <p>
   <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square" />
   <img src="https://img.shields.io/badge/Hybrid_SQL_%2B_RAG-4C1D95?style=flat-square" />
   <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP_Servers-0F766E?style=flat-square" />
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-1877F2?style=flat-square" />
   <img src="https://img.shields.io/badge/LLM_Integration-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square" />
-</p><h3>🧰 Tools & Platforms</h3>
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" />
+</p>
+
+<h3>🧰 Tools & Platforms</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" alt="Git, GitHub, VS Code, Vercel and Docker" />
-</p><h2 align="center">🎓 EDUCATION & PROFESSIONAL DEVELOPMENT</h2><table width="100%">
+</p>
+
+<h2 align="center">🎓 EDUCATION & CERTIFICATIONS</h2>
+
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🎓 BS Computer Science</h3>
       <b>University of Karachi · UBIT</b><br/>
-      4th Year Undergraduate
+      <img src="https://img.shields.io/badge/4th_Year-Undergraduate-2563EB?style=flat-square" />
     </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Agentic AI Development</h3>
-      <b>PIAIC</b> · Agentic AI Architect Program<br/>
-      
+    <td width="50%" valign="top" align="center">
+      <h3>🏅 PCAO-F Exam</h3>
+      <b>Panaversity</b><br/>
+      <img src="https://img.shields.io/badge/Blueprint-Claude_CCA--F-D97706?style=flat-square&logo=anthropic&logoColor=white" />
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Full stack development</h3>
-      <b>GIAIC</b> · AI-Native & Full-Stack Development
-      
-  
+    <td width="50%" valign="top" align="center">
+      <h3>🤖 Agentic AI Architect</h3>
+      <b>PIAIC</b><br/>
+      <img src="https://img.shields.io/badge/Agentic_AI-Program-7C3AED?style=flat-square" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🌐 AI-Native Full-Stack Dev</h3>
+      <b>GIAIC</b><br/>
+      <img src="https://img.shields.io/badge/Full--Stack-Program-0891B2?style=flat-square" />
+    </td>
   </tr>
-</table><h2 align="center">📊 GITHUB SNAPSHOT</h2><div align="center">
+</table>
+
+<h2 align="center">📊 GITHUB SNAPSHOT</h2>
+
+<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AYeshsidd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aaish's GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYeshsidd&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=AYeshsidd&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div><h2 align="center">🤝 LET'S CONNECT</h2><div align="center">
+</div>
+
+<h2 align="center">🤝 LET'S CONNECT</h2>
+
+<div align="center">
   <a href="https://linkedin.com/in/aaish-siddiqui"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="https://wa.me/923360439789"><img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Message on WhatsApp" /></a>
   <a href="https://github.com/AYeshsidd"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
@@ -176,6 +235,8 @@
   <b>Available for Remote · Onsite · Freelance Opportunities</b>
   <br/>
   <sub>Karachi, Pakistan</sub>
-</div><div align="center">
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:111827&height=110&section=footer" width="100%" alt="" />
 </div>
