@@ -57,8 +57,39 @@
   </tr>
 </table>
 
+<h2 align="center">🎓 EDUCATION</h2>
+
+<div align="center">
+<table align="center" width="70%">
+  <tr>
+    <td align="center" width="100%">
+      <h3>🎓 Bachelor's in Computer Science</h3>
+      <sub>University of Karachi (UBIT) · Currently in 4th Year</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🏛️ Governor Initiative (GIAIC)</h3>
+      <sub>AI-Native &amp; Full-Stack Development</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🤖 PIAIC · Agentic AI Architect</h3>
+      <sub>Agentic AI Architect Program</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🏅 PCAO-F Exam · Panaversity</h3>
+      <sub>Exam blueprint modeled on the Claude CCA-F</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 <h2 align="center">💼 PRACTICAL EXPERIENCE</h2>
-<p align="center"><b>⭐ Industry internships and a successfully delivered real-client project</b></p>
+<p align="center"><b>Industry internships and a successfully delivered real-client project</b></p>
 
 <table width="100%">
   <tr>
@@ -186,35 +217,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" alt="Git, GitHub, VS Code, Vercel and Docker" />
 </p>
-
-<h2 align="center">🎓 EDUCATION & CERTIFICATIONS</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🎓 BS Computer Science</h3>
-      <b>University of Karachi · UBIT</b><br/>
-      <img src="https://img.shields.io/badge/4th_Year-Undergraduate-2563EB?style=flat-square" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🏅 PCAO-F Exam</h3>
-      <b>Panaversity</b><br/>
-      <img src="https://img.shields.io/badge/Blueprint-Claude_CCA--F-D97706?style=flat-square&logo=anthropic&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🤖 Agentic AI Architect</h3>
-      <b>PIAIC</b><br/>
-      <img src="https://img.shields.io/badge/Agentic_AI-Program-7C3AED?style=flat-square" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🌐 AI-Native Full-Stack Dev</h3>
-      <b>GIAIC</b><br/>
-      <img src="https://img.shields.io/badge/Full--Stack-Program-0891B2?style=flat-square" />
-    </td>
-  </tr>
-</table>
 
 <h2 align="center">📊 GITHUB SNAPSHOT</h2>
 
