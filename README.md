@@ -58,7 +58,7 @@
 </table>
 
 <h2 align="center">💼 PRACTICAL EXPERIENCE</h2>
-<p align="center"><b>Industry internships and a successfully delivered real-client project</b></p>
+<p align="center"><b>🌟 Industry internships and a successfully delivered real-client project</b></p>
 
 <table width="100%">
   <tr>
