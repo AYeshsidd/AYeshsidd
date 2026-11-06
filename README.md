@@ -5,7 +5,6 @@
   <p>
     <img src="https://img.shields.io/badge/FULL--STACK-Developer-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Full-Stack Developer" />
     <img src="https://img.shields.io/badge/AGENTIC_AI-Developer-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI Developer" />
-    <a href="https://www.uesafety.com/"><img src="https://img.shields.io/badge/CLIENT_PROJECT-LIVE-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live client project" /></a>
     <img src="https://img.shields.io/badge/OPEN_TO-Remote%20%7C%20Onsite%20%7C%20Freelance-0891B2?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to opportunities" />
   </p>
 
