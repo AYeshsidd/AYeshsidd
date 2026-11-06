@@ -3,11 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:312E81,70:2563EB,100:06B6D4&height=230&section=header&text=Aaish%20Siddiqui&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AGENTIC%20AI%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Aaish Siddiqui — Full-Stack Developer and Agentic AI Developer" />
 
   <p>
-    <img src="https://img.shields.io/badge/FULL--STACK-Developer-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Full-Stack Developer" />
-    <img src="https://img.shields.io/badge/AGENTIC_AI-Developer-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI Developer" />
-    <img src="https://img.shields.io/badge/OPEN_TO-Remote%20%7C%20Onsite%20%7C%20Freelance-0891B2?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to opportunities" />
-  </p>
+  <img src="https://img.shields.io/badge/FULL--STACK-Developer-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Full-Stack Developer" />
+  <img src="https://img.shields.io/badge/AGENTIC_AI-Developer-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI Developer" />
+  <img src="https://img.shields.io/badge/OPEN_TO-Remote%20%7C%20Onsite%20%7C%20Freelance-0891B2?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to opportunities" />
+</p>
 
+<p>
+  <a href="mailto:hafizayeshsidd@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT_ME-hafizayeshsi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+</p>
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+Full-Stack+Web+Applications;Engineering+Agentic+AI+%26+RAG+Systems;Turning+Real-World+Problems+Into+Software" alt="Developer specialties" />
   </p>
