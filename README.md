@@ -10,7 +10,7 @@
 
 <p>
   <a href="mailto:hafizayeshsidd@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT_ME-hafizayeshsidd%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+    <img src="https://img.shields.io/badge/GMAIL-hafizayeshsidd%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
 </p>  <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+Full-Stack+Web+Applications;Engineering+Agentic+AI+%26+RAG+Systems;Turning+Real-World+Problems+Into+Software" alt="Developer specialties" />
