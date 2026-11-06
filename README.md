@@ -218,14 +218,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" alt="Git, GitHub, VS Code, Vercel and Docker" />
 </p>
 
-<h2 align="center">📊 GITHUB SNAPSHOT</h2>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AYeshsidd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aaish's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYeshsidd&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=AYeshsidd&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
 
 <h2 align="center">🤝 LET'S CONNECT</h2>
 
